@@ -1,8 +1,3 @@
-Here is your complete **Markdown Assignment File** ready to give to students 👇
-
-You can copy this into a `.md` file (Example: `Loan_Prediction_Dashboard_Assignment.md`)
-
----
 
 # 📘 Assignment: Loan Prediction System Dashboard
 
